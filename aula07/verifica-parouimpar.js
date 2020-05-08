@@ -11,5 +11,5 @@ for(i = 0; i < numeros.length; i++) {
     }
 }
 
-console.log(`Números pares: ${arrayPar.toString()} \n Números ímpares: ${arrayImpar.toString()}`);
+console.log(`Números pares: ${arrayPar.toString()} \n Números ímpares: ${arrayImpar.toString()}`)
 
